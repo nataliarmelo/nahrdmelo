@@ -1,4 +1,4 @@
- # Hello, I’m Natalia!👩🏻‍💻 # 
+# Hello, I’m Natalia!👩🏻‍💻 # 
 
 I'm a degree in business administration and I'm currently in the process of career migration.
 I started my second degree and at present I'm studying Analise e Desenvolvimento de Sistemas, the famous ADS! <br>
