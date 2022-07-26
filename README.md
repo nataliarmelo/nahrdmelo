@@ -1,11 +1,7 @@
-# Hello, I’m Natalia!👩🏻‍💻 # 
+# Hello world!👩🏻‍💻 # 
 
-I'm a degree in business administration and I'm currently in the process of career migration.
-I started my second degree and at present I'm studying Analise e Desenvolvimento de Sistemas, the famous ADS! <br>
-
-I discovered a new world with tecnology and I'm enjoying every moment of this process!
-
-I'm a coffee lover ☕ and it's just the beginning, so let's code 🚀
+Sou formada em Administração e estou em processo de migração de carreira. Atualmente estou cursando a minha segunda graduação, na área de Análise e Desenvolvimento de Sistemas.<br>
+<p>Compartilho os meus repositórios com projetos realizados durante esse meu desenvolvimento como dev. 🚀 </p>
 
 
 <div>
@@ -17,7 +13,7 @@ I'm a coffee lover ☕ and it's just the beginning, so let's code 🚀
 
  
 
-## :love_letter: How to reach me:
+## :love_letter: Contatos:
   
 <div> 
   <a href="https://instagram.com/nataliarmelo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -27,5 +23,5 @@ I'm a coffee lover ☕ and it's just the beginning, so let's code 🚀
 </div>
 
  <br>
-See ya 👋
+Let's code 🚀👋
 
