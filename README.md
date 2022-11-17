@@ -1,6 +1,6 @@
 # Hello world!👩🏻‍💻 # 
 
-Sou formada em Administração e estou em processo de migração de carreira. Atualmente estou cursando a minha segunda graduação, na área de Análise e Desenvolvimento de Sistemas.<br>
+
 <p>Compartilho os meus repositórios com projetos realizados durante esse meu desenvolvimento como dev. 🚀 </p>
 
 
